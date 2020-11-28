@@ -136,6 +136,27 @@
       }
     },
     {
+      "name": "User constant",
+      "scope": "variable.readonly",
+      "settings": {
+        "foreground": "#ff0000"
+      }
+    },
+    {
+      "name": "sys readonly",
+      "scope": "variable.readonly.defaultLibrary",
+      "settings": {
+        "foreground": "#00FF00"
+      }
+    },
+    {
+      "name": "prop readonly",
+      "scope": "property.readonly",
+      "settings": {
+        "foreground": "#0000FF"
+      }
+    },
+    {
       "name": "Variable",
       "scope": "variable",
       "settings": {
