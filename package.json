@@ -1,10 +1,10 @@
 {
-    "name": "dark-molokai-theme-atle",
-    "displayName": "Dark Molokai Theme Atle",
-    "description": "Theme inspired by official Dark, Monokai theme and Molokai vim theme.",
-    "version": "1.1.2",
+    "name": "molokai-sharp-theme",
+    "displayName": "Molokai Sharp",
+    "description": "Theme inspired by Dark Molokai and Limelight Studios Dark",
+    "version": "1.0.0",
     "publisher": "atlemagnussen",
-    "repository": "https://github.com/atlemagnussen/vscode-dark-molokai-theme",
+    "repository": "https://github.com/atlemagnussen/vscode-molokai-sharp-theme",
     "engines": {
         "vscode": "^1.33.0"
     },
@@ -14,9 +14,9 @@
     "contributes": {
         "themes": [
             {
-                "label": "Dark (Molokai) atle",
+                "label": "Molokai Sharp",
                 "uiTheme": "vs-dark",
-                "path": "./themes/dark-molokai-color-theme.json"
+                "path": "./themes/molokai-sharp-color-theme.json"
             }
         ]
     }

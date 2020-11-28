@@ -1,14 +1,10 @@
-# Dark Molokai Theme for VSCode
+# Molokai Sharp Theme for VSCode
 
-This theme is inspired by [VSCode default dark theme, monokai theme](https://github.com/Microsoft/vscode) and [Vim Molokai theme](https://github.com/tomasr/molokai) .
+This is a fork of [Dark Molokai theme](https://github.com/nonylene/vscode-dark-molokai-theme) with som additions from [Limelight Studios Dark](https://marketplace.visualstudio.com/items?itemName=limelightstudios.limelight-studios-dark) on C# specific hightlighting
 
-[Repository](https://github.com/nonylene/vscode-dark-molokai-theme)
-
-![ScreenShot](doc/screenshot.png)
+Original colorscheme is inspired from [Molokai for Vim](https://github.com/tomasr/molokai) and official VSCode Dark Theme.
 
 ## Install
-
-Please see [Marketplace](https://marketplace.visualstudio.com/items?itemName=nonylene.dark-molokai-theme).
 
 ## Development
 
