@@ -2,7 +2,7 @@
     "name": "molokai-sharp-theme",
     "displayName": "Molokai Sharp",
     "description": "Theme inspired by Dark Molokai and Limelight Studios Dark",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "publisher": "atlemagnussen",
     "repository": "https://github.com/atlemagnussen/vscode-molokai-sharp-theme",
     "engines": {
